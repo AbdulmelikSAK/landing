@@ -1,0 +1,22 @@
+.footer {
+  margin-top: 50px;
+  height: 215px;
+  background-color: rgba(20,20,20,0.9);
+  background-size: cover;
+  font-size: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer li {
+  display: inline;
+}
+
+.footer ul {
+  padding-left: 0;
+}
+
+.footer a {
+  color: #6AC78B;
+}
